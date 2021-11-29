@@ -1,0 +1,200 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('nature.jpeg');
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 20px;
+    font-size: 15px;
+    
+}
+
+.header{
+    width: 500px;
+    margin: auto;
+    background-color: rgb(0,0,0,0.6);
+    padding: 10px 0px 10px 0px;
+    border-radius: 15px 15px 0px 0px;
+    text-align: center;
+}
+
+.main{
+    background-color: rgb(0,0,0,0.5);
+    width: 500px;
+    margin: auto;
+}
+
+form{
+    padding: 10px;
+}
+
+.info{
+    background-color: rgb(0,0,0,0.5);
+    width: 500px;
+    margin: auto;
+    padding-top: 20px;
+    text-transform: uppercase;
+
+}
+
+.device-id{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+}
+
+.id-1{
+    margin-left: 100px;
+}
+
+.device-name{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+}
+.id-2{
+    margin-left: 75px;
+}
+
+.latitude{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+}
+.id-3{
+    margin-left: 118px;
+    
+}
+
+.longitude{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+}
+
+.id-4{
+    margin-left: 105px;
+}
+
+.device-type{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+} 
+
+.id-5{
+    margin-left: 92px;
+}
+
+.access-user{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+}
+
+.id-6{
+    margin-left: 52px;
+    margin-bottom: 20px;
+}
+
+.true{
+    
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+            
+}
+
+.false{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+}
+
+.id{
+    margin-left: 100px;
+    
+}
+
+.certificate{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+}
+
+.id-11{
+    margin-left: 45px;
+}
+
+.pac-id{
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 125px;
+    font-weight: 700;
+}
+
+.id-12{
+    margin-left: 92px;
+}
+
+.id-13{
+    margin-left: 25px;
+}
+
+.renewal{
+    margin-left: 17px;
+    font-weight: 700;
+}
+
+.false{
+    width: 25px;
+    height: 25px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.true{
+    width: 25px;
+    height: 25px;
+    margin-left: 50px;
+    display: inline;
+}
+
+.active{
+    margin-left: 25px;
+    margin-top: 10px;
+    font-weight: 700; 
+    padding-right: 30px;
+}
+
+.next{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    
+    padding: 25px 25px 25px 25px;
+    border-radius: 15px;
+    font-size: 15px;
+    
+}
+
+.next a{
+    text-emphasis: none;
+    text-decoration: none;
+    color: white;
+    text-align: left;
+}
